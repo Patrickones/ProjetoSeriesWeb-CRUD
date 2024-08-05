@@ -2,3 +2,5 @@ Projeto screenmatch com catalago de series onde é possivel fazer um CRUD com mo
 Iniciando pelo screenmatchApplicationSemWeb é possivel utilizar CRUD do projeto para adicionar as series.
 Iniciando pelo ScrennmatchApplication é possivel ver tudo que foi adicionado pela web através do projeto java-web-front tambem disponibilizado neste repositório.
 Após iniciar o ScrennmatchApplication, no projeto java-web-front inicio o index.html para ver a pagina web em funcionamento.
+Tecnologias Utilizadas backend: Java Spring Boot, Hibernate, JPA, APIs, PostgresSQL.
+Tecnologias Utilizadas front end: Html, Css, JavaScript
